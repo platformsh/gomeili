@@ -1,0 +1,2 @@
+# gomeili
+Meilisearch parsing module
